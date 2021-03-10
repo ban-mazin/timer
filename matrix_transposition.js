@@ -1,3 +1,5 @@
+// Pair (ban, eli, sajan)
+
 const transpose = function(matrix) {
   let transposedArray = [];
   for (let item of matrix[0]) {
